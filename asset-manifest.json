@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Skrate-Frontend/static/css/main.0930c030.chunk.css",
-    "main.js": "/Skrate-Frontend/static/js/main.359e484e.chunk.js",
-    "main.js.map": "/Skrate-Frontend/static/js/main.359e484e.chunk.js.map",
-    "runtime-main.js": "/Skrate-Frontend/static/js/runtime-main.92934bfd.js",
-    "runtime-main.js.map": "/Skrate-Frontend/static/js/runtime-main.92934bfd.js.map",
-    "static/js/2.e3ec7d40.chunk.js": "/Skrate-Frontend/static/js/2.e3ec7d40.chunk.js",
-    "static/js/2.e3ec7d40.chunk.js.map": "/Skrate-Frontend/static/js/2.e3ec7d40.chunk.js.map",
-    "index.html": "/Skrate-Frontend/index.html",
-    "static/css/main.0930c030.chunk.css.map": "/Skrate-Frontend/static/css/main.0930c030.chunk.css.map",
-    "static/js/2.e3ec7d40.chunk.js.LICENSE.txt": "/Skrate-Frontend/static/js/2.e3ec7d40.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.0930c030.chunk.css",
+    "main.js": "/static/js/main.44f80b98.chunk.js",
+    "main.js.map": "/static/js/main.44f80b98.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d2c1a74f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d2c1a74f.js.map",
+    "static/js/2.e3ec7d40.chunk.js": "/static/js/2.e3ec7d40.chunk.js",
+    "static/js/2.e3ec7d40.chunk.js.map": "/static/js/2.e3ec7d40.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0930c030.chunk.css.map": "/static/css/main.0930c030.chunk.css.map",
+    "static/js/2.e3ec7d40.chunk.js.LICENSE.txt": "/static/js/2.e3ec7d40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.92934bfd.js",
+    "static/js/runtime-main.d2c1a74f.js",
     "static/js/2.e3ec7d40.chunk.js",
     "static/css/main.0930c030.chunk.css",
-    "static/js/main.359e484e.chunk.js"
+    "static/js/main.44f80b98.chunk.js"
   ]
 }
