@@ -1,0 +1,19 @@
+.nav{
+    background-color:black;
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    gap: 27%;
+    align-items: center;
+
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.log-on:hover{
+    background-color: aliceblue;
+}
